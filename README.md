@@ -34,7 +34,7 @@ React Native로 개발되었으며, Android 및 iOS 모두 지원합니다.
 - **API**: Google Maps API (Places, Geocoding)
 - **Notification**: react-native-push-notification (Android), iOS Notification
 - **Storage**: AsyncStorage
-- **Background Tracking**: react-native-background-geolocation (iOS 한정 무료 기능)
+- **Background Tracking**: react-native-background-geolocation
 
 <br/>
 
