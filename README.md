@@ -57,4 +57,4 @@ React Native로 개발되었으며, Android 및 iOS 모두 지원합니다.
 
 | 메인 화면 | 장소 저장 | 도착 알림 |
 |-----------|-----------|------------|
-| ![screenshot1](https://your-screenshot-url1) | ![screenshot2](https://your-screenshot-url2) | ![screenshot3](https://your-screenshot-url3) |
+| ![screenshot1](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/main.png) | ![screenshot2](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/place.png) | ![screenshot3](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/alarm.png) |
