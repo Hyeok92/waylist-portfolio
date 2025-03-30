@@ -1,21 +1,64 @@
-# WayList 📍
+# WayList - 위치 기반 알림 앱
 
-위치 기반 알림 기능을 제공하는 React Native 앱
+![waylist-banner](https://your-image-url.com) <!-- 앱 대표 이미지 또는 스크린샷 배너 -->
 
-> 이 저장소는 포트폴리오 목적의 **공개용 샘플 프로젝트**입니다.  
-> 실제 앱에는 포함되지 않은 민감 정보(API 키, 인증 정보 등)는 모두 제거되어 있습니다.
+WayList는 사용자가 저장한 위치에 도착했을 때 알림을 제공하는 위치 기반 개인 스케줄러 앱입니다.  
+React Native로 개발되었으며, Android 및 iOS 모두 지원합니다.
 
-🚀 [App Store에서 보기](https://apps.apple.com/kr/app/waylist/id1234567890)
+<br/>
 
-## 주요 기능
-- 장소 검색 및 지도 표시
-- 위치 기반 알림 설정
-- 저장된 장소 메모
-- Google Maps API 연동
+## ✅ 주요 기능
 
-## 기술 스택
-- React Native
-- React Navigation
-- Google Places API / Maps API
-- AsyncStorage
-- BottomSheet Modal
+- 장소 검색 (Google Places API)
+- 지도에서 위치 선택 및 저장
+- 위치 기반 도착 알림
+- 알림 거리 설정 (예: 100m, 500m 등)
+- 저장한 장소에 대한 메모 기능
+- 사이드 메뉴를 통한 장소 리스트 관리
+- 백그라운드 위치 추적 및 도착 알림 유지
+- Android, iOS 대응
+
+<br/>
+
+## 🧑‍💻 기술 스택
+
+- **Frontend**: React Native, React Navigation, Bottom Sheet, React Native Maps, Context API
+- **API**: Google Maps API (Places, Geocoding)
+- **Notification**: react-native-push-notification (Android), iOS Notification
+- **Storage**: AsyncStorage
+- **Background Tracking**: react-native-background-geolocation (iOS 한정 무료 기능)
+
+<br/>
+
+## 📱 앱 다운로드
+
+- [App Store에서 보기](https://apps.apple.com/app/6742695436) <!-- 실제 앱스토어 링크로 교체 -->
+
+> 🚧 Android 버전은 심사 중입니다.
+
+<br/>
+
+## 🔒 민감 정보 관리
+
+이 저장소에서는 API 키, `google-services.json`, `GoogleService-Info.plist` 등 민감 정보는 제외되어 있습니다.  
+`config.js` 파일을 통해 API 키를 통합 관리하며, 해당 파일은 `.gitignore`에 포함되어 있습니다.
+
+<br/>
+
+## 📷 스크린샷
+
+| 메인 화면 | 장소 저장 | 도착 알림 |
+|-----------|-----------|------------|
+| ![screenshot1](https://your-screenshot-url1) | ![screenshot2](https://your-screenshot-url2) | ![screenshot3](https://your-screenshot-url3) |
+
+<br/>
+
+## 🧭 프로젝트 구조
+
+```bash
+📁 src
+  ├─ components/
+  ├─ screens/
+  ├─ utils/
+  ├─ context/
+  └─ config.js (API 키 관리, 공개 X)
