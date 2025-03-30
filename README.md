@@ -1,6 +1,12 @@
 # WayList - 위치 기반 알림 앱
 
-![waylist-banner](https://your-image-url.com) <!-- 앱 대표 이미지 또는 스크린샷 배너 -->
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 798.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 799.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 800.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 801.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 802.png)
+
+ <!-- 앱 대표 이미지 또는 스크린샷 배너 -->
 
 WayList는 사용자가 저장한 위치에 도착했을 때 알림을 제공하는 위치 기반 개인 스케줄러 앱입니다.  
 React Native로 개발되었으며, Android 및 iOS 모두 지원합니다.
@@ -50,15 +56,3 @@ React Native로 개발되었으며, Android 및 iOS 모두 지원합니다.
 | 메인 화면 | 장소 저장 | 도착 알림 |
 |-----------|-----------|------------|
 | ![screenshot1](https://your-screenshot-url1) | ![screenshot2](https://your-screenshot-url2) | ![screenshot3](https://your-screenshot-url3) |
-
-<br/>
-
-## 🧭 프로젝트 구조
-
-```bash
-📁 src
-  ├─ components/
-  ├─ screens/
-  ├─ utils/
-  ├─ context/
-  └─ config.js (API 키 관리, 공개 X)
