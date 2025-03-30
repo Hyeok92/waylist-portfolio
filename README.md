@@ -1,10 +1,12 @@
 # WayList - 위치 기반 알림 앱
 
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_798.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_799.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_800.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_801.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_802.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_798.png" width="150" height="auto" />
+  <img src="https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_799.png" width="150" height="auto" />
+  <img src="https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_800.png" width="150" height="auto" />
+  <img src="https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_801.png" width="150" height="auto" />
+  <img src="https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/images/Frame_802.png" width="150" height="auto" />
+</p>
 
  <!-- 앱 대표 이미지 또는 스크린샷 배너 -->
 
