@@ -1,10 +1,10 @@
 # WayList - 위치 기반 알림 앱
 
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 798.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 799.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 800.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 801.png)
-![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame 802.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame_798.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame_799.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame_800.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame_801.png)
+![waylist-banner](https://raw.githubusercontent.com/Hyeok92/waylist-portfolio/main/assets/Frame_802.png)
 
  <!-- 앱 대표 이미지 또는 스크린샷 배너 -->
 
