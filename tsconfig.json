@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "jsx": "react-native",
+    "allowJs": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "extends": "@react-native/typescript-config/tsconfig.json"
+}
